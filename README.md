@@ -73,13 +73,13 @@ Champions and Loyal Customers represent approximately **34.16% of identified cus
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Executive_Overview.png)
 
 Includes revenue KPIs, monthly trends, top-selling products, international revenue, and RFM customer segmentation.
 
 ### Cancellation & Revenue Risk Analysis
 
-![Cancellation Analysis](screenshots/cancellation_analysis.png)
+![Cancellation Analysis](Cancellation_Analysis.png)
 
 Includes cancellation KPIs, monthly cancellation trends, and the top 10 merchandise products by cancellation value.
 
